@@ -10,8 +10,7 @@ import Hang from './assets/Hangman.jpeg';
 import Astro from './assets/asteroid.jpeg';
 import Amazon from './assets/Amazon.jpeg';
 function App() {
-  // const [count, setCount] = useState(0);
-
+  
   return (
     <div className=" w-full h-full">
     <NanBar/>
